@@ -8,7 +8,7 @@ setup(
     name='geocodefr',
     version=__version__,
     packages=find_packages(),
-    url='',
+    url='https://github.com/jnth/geocodefr',
     license='GNU GPLv3',
     author='Jonathan Virga',
     author_email='jonathan.virga@gmail.com',

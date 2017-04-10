@@ -7,6 +7,7 @@ Géocodage des adresses françaises à partir de l'API de la [Base Adresse Natio
 
     $ git clone https://github.com/jnth/geocodefr.git
     $ cd geocodefr
+    $ pip3 install requirements.txt
     $ python3 setup.py install
 
 

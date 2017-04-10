@@ -1,5 +1,15 @@
 # GeocodeFr
 
+Géocodage des adresses françaises à partir de l'API de la [Base Adresse Nationale](http://adresse.data.gouv.fr/).
+
+
+## Installation
+
+    $ git clone https://github.com/jnth/geocodefr.git
+    $ cd geocodefr
+    $ python3 setup.py install
+
+
 ## Utilisation 
 
 Import et utilisation de la librairie :
@@ -66,3 +76,4 @@ Recherche du code INSEE d'une commune :
     >>> f = geo.search('Lyon', level=geocodefr.MUNICIPALITY)[0]  # 1st result
     >>> f.citycode
     '69123'
+

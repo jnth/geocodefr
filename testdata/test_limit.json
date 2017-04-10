@@ -1,0 +1,33 @@
+{
+    "attribution": "BAN", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.379505, 
+                    43.286783
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13206", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "housenumber": "146", 
+                "id": "ADRNIVX_0000000264933148", 
+                "label": "146 Rue Paradis 13006 Marseille", 
+                "name": "146 Rue Paradis", 
+                "postcode": "13006", 
+                "score": 0.7651181818181818, 
+                "street": "Rue Paradis", 
+                "type": "housenumber"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "licence": "ODbL 1.0", 
+    "limit": 1, 
+    "query": "146 rue Paradis Marseille", 
+    "type": "FeatureCollection", 
+    "version": "draft"
+}

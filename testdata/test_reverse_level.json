@@ -1,0 +1,34 @@
+{
+    "attribution": "BAN", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.372558, 
+                    48.356779
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Prunay-sur-Essonne", 
+                "citycode": "91507", 
+                "context": "91, Essonne, Île-de-France", 
+                "distance": 190, 
+                "id": "91507_XXXX_bc169f", 
+                "label": "Rue des Ouches 91720 Prunay-sur-Essonne", 
+                "name": "Rue des Ouches", 
+                "postcode": "91720", 
+                "score": 0.9999854876480901, 
+                "type": "street"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "filters": {
+        "type": "street"
+    }, 
+    "licence": "ODbL 1.0", 
+    "limit": 1, 
+    "type": "FeatureCollection", 
+    "version": "draft"
+}

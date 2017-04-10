@@ -1,0 +1,33 @@
+{
+    "attribution": "BAN", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.372289, 
+                    48.357303
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Prunay-sur-Essonne", 
+                "citycode": "91507", 
+                "context": "91, Essonne, Île-de-France", 
+                "distance": 172, 
+                "housenumber": "6", 
+                "id": "91507_0070_56a53d", 
+                "label": "6 Rue de l'Église 91720 Prunay-sur-Essonne", 
+                "name": "6 Rue de l'Église", 
+                "postcode": "91720", 
+                "score": 0.9999881191971288, 
+                "street": "Rue de l'Église", 
+                "type": "housenumber"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "licence": "ODbL 1.0", 
+    "limit": 1, 
+    "type": "FeatureCollection", 
+    "version": "draft"
+}

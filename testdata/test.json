@@ -1,0 +1,117 @@
+{
+    "attribution": "BAN", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.379505, 
+                    43.286783
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13206", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "housenumber": "146", 
+                "id": "ADRNIVX_0000000264933148", 
+                "label": "146 Rue Paradis 13006 Marseille", 
+                "name": "146 Rue Paradis", 
+                "postcode": "13006", 
+                "score": 0.7651181818181818, 
+                "street": "Rue Paradis", 
+                "type": "housenumber"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.384218, 
+                    43.275879
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13208", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13208_6794_1f3eb6", 
+                "label": "Rue Paradis 13008 Marseille", 
+                "name": "Rue Paradis", 
+                "postcode": "13008", 
+                "score": 0.644051515151515, 
+                "type": "street"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.376736, 
+                    43.293522
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13201", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13201_6794_89088e", 
+                "label": "Rue Paradis 13001 Marseille", 
+                "name": "Rue Paradis", 
+                "postcode": "13001", 
+                "score": 0.6383151515151514, 
+                "type": "street"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.378805, 
+                    43.281187
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13206", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13206_9576_1feac0", 
+                "label": "Rue Villas Paradis 13006 Marseille", 
+                "name": "Rue Villas Paradis", 
+                "postcode": "13006", 
+                "score": 0.5608939393939394, 
+                "type": "street"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.379798, 
+                    43.281253
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marseille", 
+                "citycode": "13208", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13208_9576_daf878", 
+                "label": "Rue Villas Paradis 13008 Marseille", 
+                "name": "Rue Villas Paradis", 
+                "postcode": "13008", 
+                "score": 0.5119459459459459, 
+                "type": "street"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "licence": "ODbL 1.0", 
+    "limit": 5, 
+    "query": "146 rue Paradis Marseille", 
+    "type": "FeatureCollection", 
+    "version": "draft"
+}

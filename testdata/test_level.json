@@ -1,0 +1,128 @@
+{
+    "attribution": "BAN", 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3806, 
+                    43.2804
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "adm_weight": "5", 
+                "city": "Marseille", 
+                "citycode": "13055", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte-d'Azur", 
+                "id": "13055", 
+                "label": "Marseille", 
+                "name": "Marseille", 
+                "population": "850", 
+                "postcode": "13000", 
+                "score": 0.9909090909090909, 
+                "type": "municipality"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.382329, 
+                    43.298607
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "adm_weight": "5", 
+                "city": "Marseille 1er Arrondissement", 
+                "citycode": "13201", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13201", 
+                "label": "Marseille 1er Arrondissement", 
+                "name": "Marseille 1er Arrondissement", 
+                "population": "40.9", 
+                "postcode": "13001", 
+                "score": 0.8857818181818181, 
+                "type": "municipality"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    1.955209, 
+                    49.575441
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "adm_weight": "2", 
+                "city": "Marseille-en-Beauvaisis", 
+                "citycode": "60387", 
+                "context": "60, Oise, Hauts-de-France (Picardie)", 
+                "id": "60387", 
+                "label": "Marseille-en-Beauvaisis", 
+                "name": "Marseille-en-Beauvaisis", 
+                "population": "1.2", 
+                "postcode": "60690", 
+                "score": 0.8477363636363636, 
+                "type": "municipality"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.379297, 
+                    43.344573
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "adm_weight": "1", 
+                "city": "Marseille 13e Arrondissement", 
+                "citycode": "13213", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13213", 
+                "label": "Marseille 13e Arrondissement", 
+                "name": "Marseille 13e Arrondissement", 
+                "population": "89.3", 
+                "postcode": "13013", 
+                "score": 0.838, 
+                "type": "municipality"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.381141, 
+                    43.269834
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "adm_weight": "1", 
+                "city": "Marseille 8e Arrondissement", 
+                "citycode": "13208", 
+                "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur", 
+                "id": "13208", 
+                "label": "Marseille 8e Arrondissement", 
+                "name": "Marseille 8e Arrondissement", 
+                "population": "78.8", 
+                "postcode": "13008", 
+                "score": 0.8375727272727271, 
+                "type": "municipality"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "filters": {
+        "type": "municipality"
+    }, 
+    "licence": "ODbL 1.0", 
+    "limit": 5, 
+    "query": "Marseille", 
+    "type": "FeatureCollection", 
+    "version": "draft"
+}
